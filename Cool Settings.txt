@@ -1,0 +1,34 @@
+Thoams Cordova
+Modual "Cool Settings" 2.00
+User Friendly
+Usage =Just put this in you form and type one of the words to the left and it will do the cammand to the right!DO NOT EDIT MY MODUAL!!!
+
+Off			=exit program
+Shutdown		=Shut down computer
+Restart			=Restarts computer
+Control			=Brings up control panel
+Display			=Brings up the display properties
+MouseSwap		=Switches mouse buttons
+PrintTest		=Runs a print test
+Hardware		=Runs hardware wizerd
+NetworkDrive		=Runs drive network options
+Format			=Brings up format options
+Cut			=Cuts highlighted text
+Copy			=Copys highlighted text to clipboard
+Paste			=Paste's text from clipboard
+SelectAll		=Highlights all text
+ClearText		=Clears text in text box
+HideTaskbar		=This hides the taskbar "Do not misuse!"
+ShowTaskbar		=This shows the taskbar after bieng Hidden
+HideClock		=Hides the taskbar clock
+ShowClock		=Shows taskbar clock after being hidden
+DeleteClock		=Gets read of the clock untell reboot
+HideSystemTray		=Hides system tray
+ShowSystemTry		=Shows system tray after being hidden
+DeleteSystemTray	=Gets read of the systemtray untell reboot
+HidePrograms		=Hides programs
+ShowPrograms		=Shows Programs after being hidden
+DeletePrograms		=Gets read of programs untell reboot
+BlackOut		=Blacks out desktop
+DisableCtrlAltDel	=Disables the control,alt,delete
+EnableCtrlAltDel	=Enables the control,alt,delete
